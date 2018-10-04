@@ -121,7 +121,7 @@ Object.defineProperty(Array.prototype, 'lastIndex', {
 })
 ```
 
-## Browsers
+## Browsers Polyfill
 
 
 ```js
